@@ -7,5 +7,7 @@
 
 <br>
 <br>
+
+
 ## 지도로 확인해보아요
 <img width=300, src="https://github.com/findLandGO/.github/assets/108053947/567a3b19-f435-4873-b1f4-18ca7ae681cf">
