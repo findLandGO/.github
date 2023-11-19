@@ -1,11 +1,15 @@
 # 땅찾GO
 <img width=600, src="https://github.com/findLandGO/.github/assets/108053947/533ad721-7eae-4cea-9c6b-60d2104bf0c7">
 
-
+## 반가워요!
+<br>
+<br>
 
 ## 로그인하고
 <img width=500, src="https://user-images.githubusercontent.com/108053947/284041019-15bccbc3-2ec3-4580-8467-ae91a07b94c4.jpeg">
-
+<br>
+<br>
+<br>
 
 
 
@@ -13,7 +17,9 @@
 ## 숨겨진 조상님의 땅을 찾고 🔍
 <img width=500, src="https://user-images.githubusercontent.com/108053947/284041035-85735884-e3e8-4e47-b618-d1070b762683.jpeg">
 
-
+<br>
+<br>
+<br>
 
 
 
