@@ -11,7 +11,7 @@
 
 
 ## 숨겨진 조상님의 땅을 찾고 🔍
-<img width=300, src="https://user-images.githubusercontent.com/108053947/284041035-85735884-e3e8-4e47-b618-d1070b762683.jpeg">
+<img width=500, src="https://user-images.githubusercontent.com/108053947/284041035-85735884-e3e8-4e47-b618-d1070b762683.jpeg">
 
 
 
@@ -19,4 +19,4 @@
 
 
 ## 지도로 확인해보아요!
-<img width=600, src="https://user-images.githubusercontent.com/108053947/284041048-4c40fa36-7d72-4c42-b1d1-405d78e35ad6.png">
+<img width=800, src="https://user-images.githubusercontent.com/108053947/284041048-4c40fa36-7d72-4c42-b1d1-405d78e35ad6.png">
