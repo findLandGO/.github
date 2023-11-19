@@ -1,6 +1,7 @@
 # 땅찾GO
+# 반가워요!
 <img width=600, src="https://github.com/findLandGO/.github/assets/108053947/533ad721-7eae-4cea-9c6b-60d2104bf0c7">
-#반가워요!
+
 <br>
 <br>
 
